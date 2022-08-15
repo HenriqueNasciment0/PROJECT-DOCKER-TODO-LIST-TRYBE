@@ -5,12 +5,6 @@
 # 💻 Projeto
 "Trabalho com aplicações de frontend, backend e testes com o uso de Docker, criando uma conexão entre elas e organizando sua operação.
 
-<details>
-  <summary><strong>🏆 Meu desempenho</strong></summary><br />
-
-  <img src="project-info/docker-todo-list.png"/>
-</details>
-
 ## 🚀 Tecnologias
 
 * _Bash_
