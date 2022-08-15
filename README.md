@@ -31,7 +31,7 @@ Orquestrar contêineres utilizando o Docker Compose.
 Inicialmente fazemos o build das imagens de back-end, front-end e testes:
 
 ```bash
-docker image build -t todobackend ./todo-app/back-end`
+docker image build -t todobackend ./todo-app/back-end
 docker image build -t todofrontend ./todo-app/front-end
 docker image build -t todotests ./todo-app/tests
 ```
