@@ -46,5 +46,5 @@ Para executar a aplicação, basta acessar o endereço http://localhost:3000 no 
 Para rodar os testes:
 
 ```bash 
-docker attach docker_todotests_1
+docker attach docker-todotests-1
 ```
