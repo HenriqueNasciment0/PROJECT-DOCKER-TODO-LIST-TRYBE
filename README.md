@@ -17,8 +17,10 @@ Criar imagens Docker de aplicações;
 Criar e executar contêineres Docker;
 Orquestrar contêineres utilizando o Docker Compose.
 ## ⬇️ Instalando dependências
-* ```npm install```
-* `cd docker`
+ ```bash
+ npm install
+ cd docker
+ ```
 ## ⚡ Executando a aplicação
 Inicialmente fazemos o build das imagens de back-end, front-end e testes:
 
