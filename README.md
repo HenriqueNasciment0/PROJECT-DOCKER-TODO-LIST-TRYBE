@@ -7,8 +7,8 @@
 
 ## 🚀 Tecnologias
 
-_Bash_
-_Docker_
+* _Bash_
+* _Docker_
 ## 📌 Habilidades
 Desenvolvi as seguintes habilidades:
 
