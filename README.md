@@ -24,9 +24,11 @@ Orquestrar contêineres utilizando o Docker Compose.
 ## ⚡ Executando a aplicação
 Inicialmente fazemos o build das imagens de back-end, front-end e testes:
 
-* `docker image build -t todobackend ./todo-app/back-end`
-* `docker image build -t todofrontend ./todo-app/front-end`
-* `docker image build -t todotests ./todo-app/tests`
+```bash
+docker image build -t todobackend ./todo-app/back-end`
+docker image build -t todofrontend ./todo-app/front-end
+docker image build -t todotests ./todo-app/tests
+```
 Então subimos e orquestramos os containers:
 
 * `docker-compose up -d`
@@ -35,4 +37,4 @@ Para executar a aplicação, basta acessar o endereço http://localhost:3000 no 
 ## 🧪 Executando os testes
 Para rodar os testes:
 
-`docker attach docker_todotests_1`
+```bash docker attach docker_todotests_1```
