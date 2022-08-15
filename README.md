@@ -32,8 +32,8 @@ docker image build -t todotests ./todo-app/tests
 Então subimos e orquestramos os containers:
 
 ```bash
-docker-compose up -d```
-
+docker-compose up -d
+```
 Para executar a aplicação, basta acessar o endereço http://localhost:3000 no browser.
 
 ## 🧪 Executando os testes
